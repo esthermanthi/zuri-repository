@@ -1,0 +1,150 @@
+/* ---------------------------- Header */
+
+/* Jumbotron */
+
+.jumbotron{
+    color: ivory;
+    text-transform: uppercase;
+    background-image: url("https://bashooka.com/wp-content/uploads/2018/04/scg-canvas-background-animation-24.jpg");
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+
+
+}
+.mage{
+    margin-left: 100px;
+    position: relative;
+    top: -50px;
+}
+.web{
+    margin-left: 100px;
+}
+.blog{
+    margin-left: 310px;
+    position: relative;
+    top: -450px;
+
+
+}
+.mage2{
+    position: relative;
+    margin-left: 550px;
+    top: -900px;
+}
+
+
+
+/* Navbar */
+
+.nav-item {
+    font-size: 1.2rem;
+}
+
+.nav-link{
+    padding: 1.5vh;
+
+}
+.nav-item:hover .nav-link { 
+    background-color: crimson; 
+}
+
+.navbar{
+    padding: 0px;
+}
+
+/* ---------------------------- Footer */
+
+footer{
+    color: white;
+    padding: 5%;
+}
+
+footer p{
+    font-size: 1.25rem;
+    margin: 0;
+   
+}
+
+.footer-pad{
+    padding-top: 1vh;
+    padding-bottom: 2vh;
+}
+
+
+/* ---------------------------- Contact */
+
+
+.btn {
+    background-color: crimson;
+    color: white;
+}
+
+.btn:hover {
+    background-color: crimson;
+    color: white;
+    font-weight: 900;
+}
+
+/* ---------------------------- All */
+
+p{
+    font-size: 1.0rem;
+    color: white;
+    text-align: center;
+    margin-left: 1px;
+}
+    
+.pad-top{
+     padding-top: 15vh;
+}
+    
+
+.page-section{
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+}
+
+
+.white{
+    color: whitesmoke;
+}
+
+.red{
+    color: crimson;
+}
+
+/* Social/FontAwesome */
+.fa{
+    font-size: 4rem;
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+.fa-grey{
+    color: #343a40;
+}
+
+a:hover i{
+    color: crimson;
+}
+
+.lead{
+    text-transform: uppercase;
+    text-align: center;
+}
+
+hr{
+    border: 2px solid;
+    width: 15vw;
+    color: crimson;
+}
+/* Headings */
+
+.heading {
+    text-transform: uppercase;
+
+
+}
+
